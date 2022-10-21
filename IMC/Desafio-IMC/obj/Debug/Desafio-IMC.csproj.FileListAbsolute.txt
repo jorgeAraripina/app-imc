@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\bin\Debug\Desafio-IMC.exe.config
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\bin\Debug\Desafio-IMC.exe
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\bin\Debug\Desafio-IMC.pdb
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\obj\Debug\Desafio-IMC.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\obj\Debug\Desafio-IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\obj\Debug\Desafio_IMC.Form1.resources
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\obj\Debug\Desafio_IMC.Properties.Resources.resources
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\obj\Debug\Desafio-IMC.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\obj\Debug\Desafio-IMC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\obj\Debug\Desafio-IMC.exe
+C:\Users\Aluno\source\repos\jorge\IMC\Desafio-IMC\obj\Debug\Desafio-IMC.pdb
